@@ -1,6 +1,6 @@
 {
   "name": "@simple-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple-cli-dev core",
   "author": "lizhigang <d_iii@aliyun.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@simple-cli-dev/utils": "^1.0.0"
+    "@simple-cli-dev/utils": "^1.0.1"
   }
 }
