@@ -1,0 +1,19 @@
+{
+  "name": "@simple-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "simple-cli-dev utils",
+  "author": "lizhigang <d_iii@aliyun.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

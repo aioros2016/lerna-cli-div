@@ -1,0 +1,22 @@
+{
+  "name": "@simple-cli-dev/core",
+  "version": "1.0.0",
+  "description": "simple-cli-dev core",
+  "author": "lizhigang <d_iii@aliyun.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@simple-cli-dev/utils": "^1.0.0"
+  }
+}
