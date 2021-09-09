@@ -1,11 +1,14 @@
 {
   "name": "@simple-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "simple-cli-dev core",
   "author": "lizhigang <d_iii@aliyun.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "simple-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -17,6 +20,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@simple-cli-dev/utils": "^1.0.2"
+    "@simple-cli-dev/utils": "^1.0.3"
   }
 }
